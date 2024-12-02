@@ -47,21 +47,32 @@ quizTimeout_3C7FAF8F_2FA8_32A3_41B4_73665EDB6ACD.score = View Score
 ## Hotspot
 
 ### Text
+HotspotPanoramaOverlayTextImage_95E7BC3E_87AD_3541_41D8_986A836B4ACF.text =  \
+The search began as police and villagers combed the area, desperately looking for her. Her parents were beside themselves with worry.
+HotspotPanoramaOverlayTextImage_ABCDB7EA_88BD_12C0_41A4_3D5E218D1370.text =  \
+Tragically, she was condemned to a horrifying fate—a victim of a twisted ritual. To secure the unyielding strength of the structure, a young woman’s life was offered as a blood sacrifice to appease a vengeful spirit.
+HotspotPanoramaOverlayTextImage_AF1161DB_88B5_2EC0_41DD_0587D6E79A5E.text = Devastated, her family buried her in red clothes. \
+In Chinese believes, if one was buried with red clothes, one becomes a vengeful ghost. \
+ \
+hopefully, she will avenge her souless murderer.
 HotspotPanoramaOverlayTextImage_38A85E4B_2A5F_F1A2_41AC_A7188B715350.text = Enter the house?
-HotspotPanoramaOverlayTextImage_3A856DF6_2ADD_9262_41BB_1E71CC4A6550.text = It was nothing...
+HotspotPanoramaOverlayTextImage_ABAACC83_88B7_F540_41C7_E4389425A353.text = Escape?
+HotspotPanoramaOverlayTextImage_ADCC79AE_88BB_FF41_41D2_49C04776BF1D.text = Her head was entombed within the cold concrete foundation of a bridge, sealing her fate in silence. \
+ \
+Now, whispers tell of Janet's restless spirit, prowling the bridges, her former workplace, and the shadowy corners nearby. She hunts for her killer, driven by an insatiable thirst for vengeance that chills the very air around her.
 HotspotPanoramaOverlayTextImage_3A9C5EDD_2AED_6EA6_41C5_28CEEC2B23D3.text = Janet was a hospital worker. During her night shift, she was kidnapped and went missing for several days.
 HotspotPanoramaOverlayTextImage_258FED17_2A23_93A2_41A5_3C3260459A2E.text = On your right, stands a bridge named "Jambatan Satok'' that  tied with the legend of 'Hantu Janet'.
-HotspotPanoramaOverlayTextImage_3A02A500_2AE4_939E_4136_02D9AD448800.text = Out of nowhere, the bright day dissolved into an eerie night, and the haunting melody of a Gamelan drifted from your left, echoing through the air like a ghostly whisper.
-HotspotPanoramaOverlayTextImage_38A72387_2A5C_F6A2_41C2_12E4ADCC7369.text = This house seems ...off
+HotspotPanoramaOverlayTextImage_38E58C89_2AED_72AF_41B3_2EA62DAB7FC9.text = The search begins, polices and other villagers searching for her everywhere. Her parents worried sick.
+HotspotPanoramaOverlayTextImage_3A856DF6_2ADD_9262_41BB_1E71CC4A6550.text = There was no sign of her.
+HotspotPanoramaOverlayTextImage_39A31B1D_2A24_97A7_41C1_6C998EE06E0B.text = They go to every sides of the area she was missing.
+HotspotPanoramaOverlayTextImage_3825E282_2A24_96A2_41BD_CCAA9A93AE35.text = They searched for her everywhere...
+HotspotPanoramaOverlayTextImage_38A72387_2A5C_F6A2_41C2_12E4ADCC7369.text = They were wondering, where her head was... why someone do this to an innocent girl.
+HotspotPanoramaOverlayTextImage_389C1971_2A23_727E_41BD_822A9E6E8578.text = Until one day, they finally found her.
 HotspotPanoramaOverlayTextImage_25636E61_2A2F_919E_41C0_2D4BC6C729A9.text = Welcome to \
  Kampung Kudei Lama
-HotspotPanoramaOverlayTextImage_389C1971_2A23_727E_41BD_822A9E6E8578.text = You meet another junction...
-HotspotPanoramaOverlayTextImage_38E58C89_2AED_72AF_41B3_2EA62DAB7FC9.text = You, as a reporter, are trying to uncover the mysteries of this village and find out why the latest reporter and other  people keep disappearing there.
-HotspotPanoramaOverlayTextImage_3AF1E4C5_2ADC_92A6_41B2_481889D106C2.text = but as you come closer...
-HotspotPanoramaOverlayTextImage_3825E282_2A24_96A2_41BD_CCAA9A93AE35.text = left?
-HotspotPanoramaOverlayTextImage_39330922_2A5D_B39D_41A2_B57B7676BBD2.text = left?
-HotspotPanoramaOverlayTextImage_39B04E46_2A5D_B1A2_41BB_FA9E6B5FBD5F.text = right?
-HotspotPanoramaOverlayTextImage_39A31B1D_2A24_97A7_41C1_6C998EE06E0B.text = right?
+HotspotPanoramaOverlayTextImage_3AF1E4C5_2ADC_92A6_41B2_481889D106C2.text = at the old house, in the bushes...
+HotspotPanoramaOverlayTextImage_39B04E46_2A5D_B1A2_41BB_FA9E6B5FBD5F.text = she was headless
+HotspotPanoramaOverlayTextImage_39330922_2A5D_B39D_41A2_B57B7676BBD2.text = she was headless
 
 ## Media
 
@@ -81,18 +92,22 @@ audiores_36E476F8_264F_D286_41B3_1E552CE62B36.mp3Url = media/audio_36E1066B_264F
 ### Audio Subtitles
 
 ### Image
+imlevel_A8D22DA0_88D5_1741_41E0_C11C462FBB21.url = media/panorama_2A927297_263A_B28B_4180_76A0CA7413EA_HS_904bfeqa_en.png
+imlevel_A8D6BDF6_88D5_16C0_4194_7C8B77B4244F.url = media/panorama_2A927297_263A_B28B_4180_76A0CA7413EA_HS_9dtzchha_en.png
+imlevel_A8D97E48_88D5_15C1_41D1_5238B36FAFE1.url = media/panorama_2A927297_263A_B28B_4180_76A0CA7413EA_HS_liefywuh_en.png
 imlevel_392E0BE3_2BDC_F662_41C2_A2FD7B1D326C.url = media/panorama_2AAB357A_2639_5785_41B8_63EDCE1F44FF_HS_kxotc0g9_en.png
-imlevel_392EDBCD_2BDC_F6A6_41C3_6556DDE100DB.url = media/panorama_2AAB357A_2639_5785_41B8_63EDCE1F44FF_HS_zgvb5gpa_en.png
-imlevel_38E53A2F_2A23_71E3_4150_B31C3E4FE6E6.url = media/panorama_2AAB4B72_2639_B385_41BA_F1FBAD364C11_HS_lnfd0kce_en.png
-imlevel_39299B8F_2BDC_F6A2_4198_0ADFAF769FC3.url = media/panorama_2AAB7228_2639_4D85_41B3_AF063FA75A96_HS_82njtl16_en.png
-imlevel_39291BA8_2BDC_F6EE_41BF_7CFE3CFAC2DA.url = media/panorama_2AAB7228_2639_4D85_41B3_AF063FA75A96_HS_glq5jb57_en.png
-imlevel_39294BBC_2BDC_F6E6_41AA_F8A6615EF815.url = media/panorama_2AAB7228_2639_4D85_41B3_AF063FA75A96_HS_tfsmygcd_en.png
-imlevel_38E48A46_2A23_71A2_41B9_01B9FD48AC6D.url = media/panorama_2AAB8F4C_2639_B39D_4173_931EEF11AC24_HS_8tkce4a6_en.png
-imlevel_392BCB6A_2BDC_F662_4177_B7F3A63A96DE.url = media/panorama_2BB017EB_2639_B29A_41B6_4B80A01F3A86_HS_7yim54cp_en.png
-imlevel_392ACB36_2BDC_F7E2_41BF_E786AF98FC8D.url = media/panorama_2BB017EB_2639_B29A_41B6_4B80A01F3A86_HS_b19h4pee_en.png
-imlevel_39295B7D_2BDC_F666_41C5_81A61E56E96A.url = media/panorama_2BB017EB_2639_B29A_41B6_4B80A01F3A86_HS_lgkzw2ke_en.png
+imlevel_A81ECD3E_88D5_1741_41D8_465AF93635BF.url = media/panorama_2AAB357A_2639_5785_41B8_63EDCE1F44FF_HS_zgvb5gpa_en.png
+imlevel_A81AFCBF_88D5_1540_41CE_A9C4984F635C.url = media/panorama_2AAB4B72_2639_B385_41BA_F1FBAD364C11_HS_lnfd0kce_en.png
+imlevel_A81B0CED_88D5_16C3_41D1_3A20D5B66FB1.url = media/panorama_2AAB7228_2639_4D85_41B3_AF063FA75A96_HS_82njtl16_en.png
+imlevel_A81C1D12_88D5_1741_41DC_44BF4FD8CE7F.url = media/panorama_2AAB7228_2639_4D85_41B3_AF063FA75A96_HS_glq5jb57_en.png
+imlevel_A81EAD29_88D5_1743_41DE_B52C89EB9421.url = media/panorama_2AAB7228_2639_4D85_41B3_AF063FA75A96_HS_tfsmygcd_en.png
+imlevel_A81BCCD5_88D5_16C3_416D_6820A8ADBB96.url = media/panorama_2AAB8F4C_2639_B39D_4173_931EEF11AC24_HS_8tkce4a6_en.png
+imlevel_A81FED62_88D5_17C0_41D7_7B790122C9DA.url = media/panorama_2AABE8D4_2639_5E8D_41BB_3995D2848919_HS_5p5snzw1_en.png
+imlevel_A816AC5F_88D5_15C0_41D0_0A3FA0CC7899.url = media/panorama_2BB017EB_2639_B29A_41B6_4B80A01F3A86_HS_7yim54cp_en.png
+imlevel_A8189C90_88D5_1541_41D3_2043FCBFB4FC.url = media/panorama_2BB017EB_2639_B29A_41B6_4B80A01F3A86_HS_k1mj7xsa_en.png
+imlevel_A817EC6E_88D5_15C1_41AD_BD37B89080CA.url = media/panorama_2BB017EB_2639_B29A_41B6_4B80A01F3A86_HS_lgkzw2ke_en.png
 imlevel_38A72993_2A23_72A3_4190_3AA81B1910BD.url = media/panorama_2D42B638_2639_7585_41B3_47CDEAA386B3_HS_6s1zfzmr_en.png
-imlevel_3925AB15_2BDC_F7A6_41B1_9AF0BC06D0CA.url = media/panorama_2D42B638_2639_7585_41B3_47CDEAA386B3_HS_lhtu2m1s_en.png
+imlevel_A8586C28_88D5_1541_41D2_F8F6F30F936B.url = media/panorama_2D42B638_2639_7585_41B3_47CDEAA386B3_HS_lhtu2m1s_en.png
 imlevel_3B1B38EC_2A23_7266_41AD_0A8DCAB48983.url = media/panorama_2DF7A023_2639_4D8B_41B0_A8C6FA55E5E5_HS_1ooh2xj0_en.png
 imlevel_38A06962_2A23_7262_4187_74B56F37623D.url = media/panorama_2DF7A023_2639_4D8B_41B0_A8C6FA55E5E5_HS_57kfpl3o_en.png
 
