@@ -112,6 +112,8 @@ album_25F5CD7D_30A8_3667_41A0_1F152F7D778F.label = Photo Album Screenshot 2024-1
 album_83819454_8C34_356B_41C9_2054620843C7.label = Photo Album Untitled483_20240514211812
 album_25F5CD7D_30A8_3667_41A0_1F152F7D778F_0.label = Screenshot 2024-11-12 112240
 album_83819454_8C34_356B_41C9_2054620843C7_0.label = Untitled483_20240514211812
+photo_826D36B6_96B5_081E_41C8_6728CE11BD16.label = Untitled483_20240514211812
+video_98328D9E_9695_1811_41DB_3A9F2C327867.label = lv_0_20241205112346
 panorama_2DF7A023_2639_4D8B_41B0_A8C6FA55E5E5.label = scene1
 panorama_2BB017EB_2639_B29A_41B6_4B80A01F3A86.label = scene1-dark
 panorama_2D42B638_2639_7585_41B3_47CDEAA386B3.label = scene2
@@ -120,6 +122,17 @@ panorama_2AAB8F4C_2639_B39D_4173_931EEF11AC24.label = scene3-dark
 panorama_2AAB7228_2639_4D85_41B3_AF063FA75A96.label = scene4-dark
 panorama_2AAB357A_2639_5785_41B8_63EDCE1F44FF.label = scene5-dark
 panorama_2AABE8D4_2639_5E8D_41BB_3995D2848919.label = scene6-dark
+
+### Video
+videolevel_8216002B_96BD_0836_41C3_C295FD1FA111.url = media/video_98328D9E_9695_1811_41DB_3A9F2C327867_en.mp4
+videolevel_8216002B_96BD_0836_41C3_C295FD1FA111.posterURL = media/video_98328D9E_9695_1811_41DB_3A9F2C327867_poster_en.jpg
+
+### Video Subtitles
+
+## Popup
+
+### Body
+htmlText_853FE01D_96B5_0812_41C9_A3A9466D5EDD.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:16px;font-family:'Arial Baltic';">Missing people poster...</SPAN></SPAN></DIV></BODY></HTML></div>
 
 ## Skin
 
